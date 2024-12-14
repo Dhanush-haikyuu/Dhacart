@@ -1,0 +1,86 @@
+[
+    {
+        "name": "Smartphone X",
+        "price": "799.99",
+        "description": "A high-end smartphone with excellent camera quality.",
+        "rating": "4.5",
+        "images": [
+            { "image": "https://example.com/images/smartphone-x-front.jpg" },
+            { "image": "https://example.com/images/smartphone-x-back.jpg" }
+        ],
+        "category": "Electronics",
+        "seller": "TechStore",
+        "stock": "50",
+        "createdAt": "2024-11-01T10:30:00Z"
+    },
+    {
+        "name": "Wireless Earbuds Pro",
+        "price": "129.99",
+        "description": "Noise-cancelling wireless earbuds with long battery life.",
+        "rating": "4.7",
+        "images": [
+            { "image": "https://example.com/images/earbuds-pro-case.jpg" },
+            { "image": "https://example.com/images/earbuds-pro-in-ear.jpg" }
+        ],
+        "category": "Electronics",
+        "seller": "AudioHub",
+        "stock": "200",
+        "createdAt": "2024-10-20T12:00:00Z"
+    },
+    {
+        "name": "Gaming Laptop",
+        "price": "1599.99",
+        "description": "Powerful gaming laptop with a high refresh rate display.",
+        "rating": "4.8",
+        "images": [
+            { "image": "https://example.com/images/gaming-laptop-front.jpg" },
+            { "image": "https://example.com/images/gaming-laptop-keyboard.jpg" }
+        ],
+        "category": "Computers",
+        "seller": "GamerzWorld",
+        "stock": "30",
+        "createdAt": "2024-09-15T15:45:00Z"
+    },
+    {
+        "name": "4K Ultra HD TV",
+        "price": "1199.99",
+        "description": "Large 4K television with vivid colors and smart features.",
+        "rating": "4.6",
+        "images": [
+            { "image": "https://example.com/images/4k-tv-front.jpg" },
+            { "image": "https://example.com/images/4k-tv-side.jpg" }
+        ],
+        "category": "Electronics",
+        "seller": "HomeTech",
+        "stock": "80",
+        "createdAt": "2024-08-10T09:20:00Z"
+    },
+    {
+        "name": "Electric Scooter",
+        "price": "499.99",
+        "description": "Eco-friendly electric scooter with a long-lasting battery.",
+        "rating": "4.3",
+        "images": [
+            { "image": "https://example.com/images/electric-scooter-side.jpg" },
+            { "image": "https://example.com/images/electric-scooter-battery.jpg" }
+        ],
+        "category": "Vehicles",
+        "seller": "EcoRides",
+        "stock": "150",
+        "createdAt": "2024-07-05T08:10:00Z"
+    },
+    {
+        "name": "Digital Camera",
+        "price": "699.99",
+        "description": "Compact digital camera with zoom lens and 4K video support.",
+        "rating": "4.4",
+        "images": [
+            { "image": "https://example.com/images/digital-camera-front.jpg" },
+            { "image": "https://example.com/images/digital-camera-lens.jpg" }
+        ],
+        "category": "Photography",
+        "seller": "SnapShot",
+        "stock": "60",
+        "createdAt": "2024-06-25T13:35:00Z"
+    }
+]
